@@ -4,4 +4,4 @@ Here will be the code for our ongoing project on calculating [immanants](https:/
 
 Might be slightly outdated and contain some garbage.
 
-Requires [SageMath](https://www.sagemath.org/)
+Requires [SageMath](https://www.sagemath.org/).
